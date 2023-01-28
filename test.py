@@ -8,7 +8,7 @@ reddit = praw.Reddit(client_id='id', \
                      username='username', \
                      password='password')
 
-subredditname = "politics"
+subredditname = "naruto_hentai"
 
 subreddit = reddit.subreddit(subredditname)
 
